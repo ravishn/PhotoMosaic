@@ -1,9 +1,6 @@
 # PhotoMosaic
-
-Photo mosaic
-------------
-
 Javascript/HTML program to create a photo mosaic
+---
 
 The goal of this project is to implement the following flow in a client-side app.
 
