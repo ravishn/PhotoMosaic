@@ -15,3 +15,5 @@ The goal of this project is to implement the following flow in a client-side app
     - tiles should be rendered a complete row at a time (a user should never
       see a row with some completed tiles and some incomplete)
     - the mosaic should be rendered from the top row to the bottom row.
+    
+NOTE: Ensure javascript is enabled in the browser
